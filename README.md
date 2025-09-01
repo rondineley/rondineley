@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou o **Rondinele Patrício**
-
 ### Analista de Dados · Desenvolvedor Python · Front-end
 
 [![GitHub Followers](https://img.shields.io/github/followers/rondineley?label=Seguidores\&style=flat)](https://github.com/rondineley)
