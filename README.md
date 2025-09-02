@@ -8,13 +8,6 @@
 
 ---
 
-## 🔗 Onde me encontrar
-
-* **LinkedIn:** [linkedin.com/in/rondinele-patrício-mamede-80bb75289](https://www.linkedin.com/in/rondinele-patr%C3%ADcio-mamede-80bb75289/)
-* **GitHub:** [github.com/rondineley](https://github.com/rondineley)
-
----
-
 ## 🧰 Stack & Ferramentas
 
 * **Linguagens:** Python, JavaScript, SQL, HTML, CSS
@@ -78,15 +71,3 @@ Protótipo de app para reprodução de músicas em smartphone.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rondineley\&show_icons=true\&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rondineley\&layout=compact)
 
----
-
-## 🤝 Vamos colaborar?
-
-Estou aberto a **parcerias**, **freelance** e **oportunidades** em:
-
-* Apps desktop com **Python/PyQt5**
-* **Dashboards** e **análises** com **Power BI** e **Pandas**
-* **Automação** de processos (integrações Web/Excel)
-* **Front-end** leve e responsivo (HTML/CSS/JS)
-
-**Fale comigo pelo LinkedIn:** [Enviar mensagem](https://www.linkedin.com/in/rondinele-patr%C3%ADcio-mamede-80bb75289/)
