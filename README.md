@@ -16,39 +16,6 @@
 * **Bancos:** SQLite
 * **Outros:** Git/GitHub, Automação com WhatsApp Web, UI/UX
 
----
-
-## 🚀 Projetos em destaque
-
-### 1) App Profissional de **OPs de Calçados** (PyQt5 + SQLite)
-
-Sistema desktop com cadastro, busca, exportação CSV, visualização e interface moderna. Foco em produtividade para linhas de produção de calçados.
-
-* 🔗 Repositório: [https://github.com/rondineley/programa\_de\_gerenciamente\_de\_ops](https://github.com/rondineley/programa_de_gerenciamente_de_ops)
-
-### 2) **Galeria de PDFs** (Python + PyQt5, tema AMOLED)
-
-Visualizador com miniaturas e organização eficiente para múltiplos arquivos PDF.
-
-### 3) **Galeria de Excel** (PyQt5 – lista, ordenação e tema escuro AMOLED)
-
-Lista de arquivos focada em produtividade, com ordenação por nome/data.
-
-### 4) **Automação WhatsApp Web** com interface escura
-
-Envio de mensagens e arquivos para contatos de planilha Excel, evitando instâncias duplicadas do WhatsApp.
-
-### 5) **Site de Notícias** (HTML + CSS moderno)
-
-Layout responsivo com banner, destaques, grid de últimas notícias, formulário de newsletter e rodapé.
-
-### 6) **Dashboard Power BI – Preços de Combustíveis (Brasil)**
-
-.pbix com gráficos de evolução, comparações e destaques de preços.
-
-### 7) **Player de Música Mobile**
-
-Protótipo de app para reprodução de músicas em smartphone.
 
 > 💡 Quer ver mais? Explore meus repositórios e issues fixados no topo do perfil.
 
